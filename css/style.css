@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    min-height: 100vh;
+    background-color: rgb(111, 255, 131);
+    background: url('img/lulaw.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 25px;
+}
+.imagen{
+    width: 700px;
+    height: 500px;
+    margin: 20px;
+}
+
+.imagen2{
+    width: 700px;
+    height: 500px;
+    margin: 20px;
+}
+.projetos{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+footer{
+    color: aliceblue;
+}
+.comeco{
+    background-color: aliceblue;
+    margin: 20px;
+    padding: 0 25px 0 25px;
+    border-radius: 20px;
+}
